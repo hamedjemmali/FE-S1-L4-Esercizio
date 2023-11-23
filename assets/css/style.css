@@ -1,6 +1,6 @@
 /* IMPOSTAZIONI GENERALI */
-*{
-      /* background-image: url(../img/sfondo.png);     */
+body{
+      background-image: url(../img/sfondo.png);    
        
 }
 /* HEADER */
